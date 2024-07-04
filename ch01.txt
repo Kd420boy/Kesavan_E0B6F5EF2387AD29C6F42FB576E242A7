@@ -7,3 +7,4 @@ def fact_rec(n):
 number=int(input("Enter a value: "))
 res=fact_rec(number)
 print("The factorial of {} is {}".format(number,res))
+hello
